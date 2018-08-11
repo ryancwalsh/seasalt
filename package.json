@@ -4,7 +4,7 @@
   "description": "Javascript crypto utility built on Libsodium.js",
   "homepage": "https://jakcodex.github.io/seasalt/",
   "dependencies": {
-    "libsodium.js": "git://github.com/jedisct1/libsodium.js.git^0.7.3"
+    "libsodium.js": "git://github.com/jedisct1/libsodium-wrappers.js.git^0.7.3"
   },
   "repository": {
     "type": "git",
